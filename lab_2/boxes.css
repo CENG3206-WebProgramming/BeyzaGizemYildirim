@@ -1,0 +1,16 @@
+.outer-box{
+    display: inline-block;
+    background-color: teal;
+     padding :50px;
+
+
+}
+
+.inner-box{
+    background-color:salmon;
+    width: 200px;
+    height: 200px;
+    border:50px solid pink;
+
+}
+

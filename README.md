@@ -1,3 +1,3 @@
 # HTML
 
-[Live Server](https://web-programming-course.vercel.app/)
+[BeyzaGizemYıldırım_Cv](https://web-programming-course.vercel.app/)

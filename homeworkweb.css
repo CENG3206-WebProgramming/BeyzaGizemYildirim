@@ -1,0 +1,58 @@
+body{
+    margin: 30px 300px ;
+    background-color: #e1dcd5;
+    
+}
+.container{
+    display: flex;
+    background-color: white;
+    padding: 30px;
+    
+
+}
+.firstpart{
+    flex-basis: 40%;
+    color:blue;
+
+}
+.secondpart{
+    flex-basis: 60%;
+    border-right: 2px solid darkblue ;
+    padding-right: 50px;
+
+
+}
+.cv-item{
+    background-color: rgb(197 197 197);
+    color: darkblue;
+    width: 60%;
+    padding: 10px;
+    
+    margin-top:0;
+   
+}
+.textprimary{
+    color: blue;
+}
+.title{
+    color: darkblue;
+    border-bottom:1px solid darkblue;
+}
+.part{
+    color: blue;
+}
+.listitem{
+    color: black;
+}
+.secondpart{
+    margin-left: 50px;;
+}
+.firstpart{
+}
+.list{
+    list-style-type: none;
+    padding: 0;
+}
+.image{
+    text-align: center;
+}
